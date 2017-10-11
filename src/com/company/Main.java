@@ -14,6 +14,6 @@ public class Main {
     public static void main(String[] args) {
 	// Print out a message
 
-        System.out.println("Hello Yonatan");
+        System.out.println("Hello Yonatan Mengesha");
     }
 }
